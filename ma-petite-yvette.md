@@ -274,8 +274,7 @@ Les vacances arrivèrent. L'oncle et la tante de Jeanne eurent l'idée de nous v
 &nbsp;&nbsp;La mer, je ne l'avais pas connue tout petit. Les beaux jeux que racontent les livres, je ne les avais imaginés qu'en rêve. Ah! les châteaux de sable !... châteaux en Espagne pour l'orphelin triste que j'avais été ! Mais j'allais prendre ma revanche. Ces joies que m'avait refusées la vie, je les connaîtrais par Yvette. Son enfance heureuse en serait tout illuminée.  
 &nbsp;&nbsp;Vers midi, j'essuyai les petits pieds tout remplis de sable fin. Je remis souliers et chaussettes, et nous retournâmes à l'hôtel où notre oncle nous attendait. « Ces dames » n'étaient pas encore descendues, ayant longtemps bavardé dans leurs chambres. Le déjeuner commença. Les stores baissés entouraient la table d'une obscurité verte.  
 &nbsp;&nbsp;Et, le plus souvent, nos journées se passaient ainsi. Je prenais un livre et j'allais m'installer, à l'ombre des rochers, avec Yvette. Jamais je n'avais tant vécu dans son intimité. Je la découvrais un peu plus tous les jours. Mille gentillesses d'enfant se révélaient à moi. Nous ne nous ennuyions jamais ensemble et nous nous suffisions l'un à l'autre. Et Jeanne disait quelquefois en souriant:  
-
-« Oh! mon mari, pourvu qu'il soit avec sa fille !... »
+&nbsp;&nbsp;« Oh! mon mari, pourvu qu'il soit avec sa fille !... »  
 &nbsp;&nbsp;Vers la fin de l'après-midi, quand le soleil commençait à baisser, Jeanne et sa tante venaient nous rejoindre. De loin je les apercevais, avançant ensemble sur la plage, faciles à distinguer avec leurs silhouettes élégantes qui détonnaient un peu dans cet humble port, et leurs souliers blancs qui se posaient sur le sable. Elles venaient lentement, parlant de je ne sais quoi et ralentissant encore le pas quand elles nous avaient vu, comme pour achever l’échange de réflexions auxquelles il n’était pas utile que je fusse mêlé.  
 &nbsp;&nbsp;Et pourtant, malgré la joie qui me venait d’Yvette, ce ne furent pas tout à fait les vacances heureuses que j'avais rêvées. Pas une fois, depuis le jour de notre mariage, Jeanne et moi n'avions autant vécu d'heures séparés. Elle se devait à sa tante, je le savais bien. Mais, quand nous nous retrouvions le soir, j'avais le sentiment de je ne sais quel vide, je ne savais plus tout ce qu'elle avait pensé. Je n'avais pas eu part à toutes ses conversations. Et je ne pouvais rien reprocher à Jeanne, mais j'étais un peu chagriné de sentir qu'elle ne souffrait pas de cet éloignement.  
 
@@ -294,8 +293,7 @@ Les vacances arrivèrent. L'oncle et la tante de Jeanne eurent l'idée de nous v
 
 &nbsp;&nbsp;Plus encore que bruyante ou courroucée, elle nous donnait, cette mer tranquille, une étrange sensation d'infini. Et pensant aux millions d'habitants de l'ancien monde, aux peuples de toutes races qui s'échelonnent de la mer de Chine à l'Océan, nous songions qu'à cette minute, debout sur notre rocher, les plus occidentaux de tous les êtres, nous nous dressions, en face de l'immensité, à l'avant garde du continent.  
 &nbsp;&nbsp;Les voix d'hommes ne nous parvinrent plus. Alors nous nous trouvâmes plus seuls encore, le mari et la femme, dans la grande nuit semée d'étoiles. Les phares à éclats jetaient leurs éclats réguliers ; les phares à feux tournants tournaient toujours dans le lointain, et les phares à éclipses, toutes les quatre ou cinq secondes, rayonnaient pour s'éteindre aussitôt. Tous, - sentinelles attentives, - orgueilleux d'être des lumières, remplissaient leur devoir d'éclairer et toute une prodigieuse vie nocturne nous était révélée tout à coup.  
-Jeanne, émue, murmura : 
-
+Jeanne, émue, murmura :
 - Que c'est beau !  
 &nbsp;&nbsp;Alors, sous les cieux grands ouverts, sur cette extrême pointe du vieux monde, je pressai longuement ma femme sur mon coeur, heureux de la sentir encore toute frémissante entre mes bras.  
 
@@ -314,9 +312,8 @@ Jeanne, émue, murmura :
 &nbsp;&nbsp;Yvette apprit à marcher. Elle apprit aussi à regarder et à voir, non pas à voir seulement les objets qu'on peut toucher, les mains servant à l'éducation des yeux, mais à reconnaître aussi, sur les livres, des objets figurés. Les petits enfants ne « voient » pas d'abord une image. Ils tournent un dessin dans tous les sens sans discerner ce qu'il représente. Puis la notion de la perspective leur vient. Ils distinguent un arbre d'un personnage. Et Yvette pouvait rester, une heure à feuilleter un catalogue jusqu'au moment où, le doigt sur une figurine, elle s'écriait : « Maman » ou « Papa ».  
 &nbsp;&nbsp;Presque chaque après-midi nous nous installions ensemble, tous les trois dans la même pièce. Yvette aimait cette heure-là. Jeanne lisait ou brodait. Yvette jouait sans trop de bruit. Et moi, levant parfois les yeux de la page commencée, j'observais ma femme et mon enfant. Il est une notion de la famille que notre déplacement avait fortifiée en moi.  
 &nbsp;&nbsp;Nous étions trois êtres solidaires. Nos avenirs étaient faits des mêmes espérances. Le même pain nous nourrissait, le même toit nous gardait de la grande nuit environnante. Nous serions ensemble riches ou pauvres, heureux ou malheureux. Aucun événement ne pouvait toucher l'un de nous sans atteindre en même temps les deux autres. Nous pouvions quitter nos amis, notre pays, mais nous, parmi les choses qui passent, jamais nous ne nous séparerions. Et notre réinstallation dans cette maison nouvelle, cette décision d'un ministre qui, en me changeant de collège, nous faisait une autre vie à tous les trois, me faisait mieux sentir que nous formions un tout, que nous étions trois êtres réunis en un seul, qui s'offraient ensemble à la destinée.  
-&nbsp;&nbsp;Yvette se tenait tranquille, mais, quand le jour se faisait plus sombre, que Jeanne posait son ouvrage et que je n'avais plus l'air de travailler, elle savait bien dire, dans son langage télégraphique d'enfant :   
-
-- Piano, maman…  
+&nbsp;&nbsp;Yvette se tenait tranquille, mais, quand le jour se faisait plus sombre, que Jeanne posait son ouvrage et que je n'avais plus l'air de travailler, elle savait bien dire, dans son langage télégraphique d'enfant :
+&nbsp;&nbsp;- Piano, maman…  
 &nbsp;&nbsp;Alors Jeanne s'exécutait. Yvette grimpait sur mes genoux, et nous restions tous deux à écouter. Les doigts de Jeanne couraient sur le clavier. Quand elle s'arrêtait, la rêveuse Yvette murmurait : « Encore ! » Et je songeais que cette paisible scène devait se graver dans sa mémoire. De ses premiers mois de Bretagne, elle ne garderait aucune trace, mais cette maison demeurerait celle de son enfance. Plus tard, quand Jeanne serait morte et que je serais mort, c'est par une soirée pareille, dans cette atmosphère de douceur et de musique qu'elle reverrait son père et sa mère. Et c'est à cette lumière diffuse qui s'attardait dans la pièce, à ces murs, à ces tableaux, aux fleurs de cette tapisserie que s'associerait notre souvenir.  
 &nbsp;&nbsp;Et le temps fuyait, léger comme du sable fin qui coulerait entre les doigts. Le voisinage de Paris nous procurait des joies nouvelles. Souvent, le jeudi, nous partions ensemble, et j'accompagnais Jeanne dans ses courses. Parfois nous allions au théâtre voir les pièces que nous avions lues ensemble, entendre les operas dont nous ne connaissions encore que des fragments. Et nous revenions par le dernier train, les oreilles encore pleines de musique, fatigués et ravis. Nous sortions de la gare, donnant nos billets à un employé ensommeillé. Pour traverser la ville obscure, Jeanne, un peu craintive, se serrait contre moi, et ce contact furtif m'emplissait d'un trouble délicieux. Le passage du pont l'émouvait un peu, à cause de cette rivière noire, de ce clapotis de l'eau dans les ténèbres. Et nous nous hâtions, goûtant mieux, à l'arrivée, le tiède accueil de la maison.  
 &nbsp;&nbsp;A pas de loup, nous regagnions notre chambre. Nous nous penchions sur le berceau d'Yvette qui rêvait aux anges. Ah! comme elle dormait, d'un bon sommeil d'enfant sage, les bras allongés hors des couvertures, la tête encadrée de boucles blondes, toute blanche dans sa petite chemise de nuit bien boutonnée aux poignets et au cou.  
@@ -325,9 +322,8 @@ Jeanne, émue, murmura :
 &nbsp;&nbsp;Le vocabulaire d'Yvette s'enrichissait sans cesse de mots nouveaux. Elle avait une drôle de façon de parler, en supprimant les premières syllabes. Elle connaissait les « garettes » de papa et les « bliers » blancs de sa bonne. Ses fantaisies de langage n'étaient pas toujours dénuées de logique. Puisqu'on disait « deux assiettes » c'était évidemment « une sassiette » qu'il fallait dire. Et, puisqu'on disait « un oeuf », pas de doute que « deux noeufs » ne fût d'une parfaite correction.  
 &nbsp;&nbsp;Nous revenions rarement de Paris sans lui rapporter quelque jouet qu'elle malmenait fort à notre grande déconvenue. Ah! ce n'était pas une sinécure que d'être la poupée d'Yvette ! quel crime avaient-elles donc toutes commis pour être ainsi vouées à l'exécution capitale? Les _incassables_ se cassaient. Mais les accidents dont ses filles étaient victimes n'impressionnaient pas trop Yvette. Sans doute, la décapitation ne les empêchait pas d'entendre, car elle avait de jolies histoires qu'elle narrait avec complaisance à ses poupées acéphales.  
 &nbsp;&nbsp;Comme elle était joueuse, notre petite Yvette ! Les moindres objets devenaient poupées entre ses mains. Faute du Bouddha, qu'elle considérait avec envie, et qui aurait si bien fait son affaire, elle s'emparait de règles, de flacons, de brosses pour accroître le nombre de ses enfants. Son imagination, sans la moindre peine, remplaçait les membres absents. Un jour que nous étions réunis dans mon cabinet de travail, elle s'amusait à vêtir d'un bout d'étoffe un gros cachet pris sur ma table qu'elle appelait sa petite fille.  
-&nbsp;&nbsp;Jeanne leva les yeux et dit en souriant :   
-
-- Ah! comme elle est sotte, ma petite Yvette !  
+&nbsp;&nbsp;Jeanne leva les yeux et dit en souriant :
+&nbsp;&nbsp;- Ah! comme elle est sotte, ma petite Yvette !  
 &nbsp;&nbsp;Alors Yvette, prise en flagrant délit, parut un peu gênée. Elle nous regarda comme pour dire : « Oui, je sais bien. C'est le cachet dont papa se sert pour ses lettres. Mais moi, dans ce cachet, je vois une petite fille. La tête, les bras, les jambes, je me les imagine parfaitement. C'est vous qui avez tort, avec votre besoin de réalité. Pourquoi m'enlever mes petites illusions ? ».  
 &nbsp;&nbsp;Mais, parmi tous les jeux, il en était un auquel excellait Yvette, et c'était le jeu de cache-cache. Elle avait découvert dans le salon, derrière le rideau de la fenêtre, une cachette, toujours la même, où elle se croyait introuvable. Il fallait, pour qu'elle fût contente, la chercher longtemps. « Où est Yvette?... où est Yvette... » et elle se blottissait derrière le rideau que dépassaient les mollets nus : «Voyons ! Yvette est perdue !... Où peut bien être Yvette? » Et je la cherchais partout. « Dans la bibliothèque?... Non sous le canapé?... Non plus... Dans le coffre à bois ?... Non. Pas d'Yvette l... » Et papa remuait tous les meubles, visitait tous les coins avant de découvrir sa petite fille qui riait alors aux éclats.  
 &nbsp;&nbsp;Quand on ne l'avait pas assez cherchée, Yvette n'était pas très contente et nous recommencions la partie. Il fallait que papa tournât le dos pendant qu'elle reprenait exactement la même place et qu'on sentît bien ensuite que j'avais beaucoup de mal à la trouver.  
@@ -362,16 +358,12 @@ Yvette allait de surprise en surprise. Pour son âme neuve, tout était sujet d'
 &nbsp;&nbsp;Les premiers temps, quand Jeanne arrivait de Paris, elle nous interrogeait longuement sur l'emploi de notre journée, nous racontait avec détails ses courses et ses emplettes. Cette joie du retour se manifestait moins à présent. Souvent elle manquait le train annoncé. Nous revenions, Yvette et moi, un peu tristes, et je retournais attendre Jeanne à un autre train.  
 &nbsp;&nbsp;Décidément ces voyages répétés fatiguaient Jeanne, qui n'avait plus sa tranquille expression des jours heureux. Parfois on aurait dit qu'elle m'évitait. Et des craintes me revinrent. Je repensai à la maladie de sa mère. Un jour, à table, elle me fit l'effet d'une étrangère, comme si notre bonheur n'avait pas été chose durable, comme s'il avait été naturel qu'elle disparût tôt ou tard de ma vie. Dans notre calme intérieur, elle ne semblait plus être à sa place. Un soir, à peine rentrée, elle dîna vite et s'enferma dans sa chambre. Je la retrouvai debout devant la glace, les coudes sur la cheminée, le menton dans les mains, scrutant son propre regard. Elle eut un sursaut en m'entendant. Son air d'absente me frappa. J'allais parler. Elle ne pleurait pas à vrai dire, mais une sorte de buée, sans pourtant se convertir en larmes, noyait ses yeux hagards. Alors, par crainte de déterminer une crise, de susciter des mots que nous ne pourrions plus oublier ensuite, la parole que je comptais dire, je n'osai pas la prononcer.  
 &nbsp;&nbsp;Ce fut elle qui parla, en s'essuyant les yeux, comme si elle répondait à une interrogation muette.  
-
-- Ah! j'aurais mieux fait de ne jamais me marier…  
-
-- Enfin, Jeanne, explique-moi. As-tu un reproche à me faire? Confie-moi ce que tu as.  
-
-- Rien, rien, je t'assure. Je ne sais pas. ce que j'ai.  
+&nbsp;&nbsp;- Ah! j'aurais mieux fait de ne jamais me marier…  
+&nbsp;&nbsp;- Enfin, Jeanne, explique-moi. As-tu un reproche à me faire? Confie-moi ce que tu as.  
+&nbsp;&nbsp;- Rien, rien, je t'assure. Je ne sais pas. ce que j'ai.  
 &nbsp;&nbsp;Elle resta impénétrable. A partir de ce moment, notre vie ne fut plus complètement la même. Jamais de scène, ni d'explication, mais une moindre recherche du tête-à-tête. Nous nous sentions plus à l'aise lorsque Yvette était avec nous, et quand nous étions seuls ensemble, nous parlions de choses indifférentes, comme si l'intimité du silence nous causait quelque appréhension.  
 &nbsp;&nbsp;Un médecin de mes amis sourit de mes inquiétudes :  
-
-- Oh ! ce n'est rien. Cinq ans de mariage. Un peu de neurasthénie. Toutes les jeunes femmes ont passé par là…  
+&nbsp;&nbsp;- Oh ! ce n'est rien. Cinq ans de mariage. Un peu de neurasthénie. Toutes les jeunes femmes ont passé par là…  
 &nbsp;&nbsp;Mais, heureusement, j'avais Yvette. Un soir que Jeanne était en retard, je me penchai sur son petit lit. C'est en sa douceur, en sa grâce, dans la tendresse qu'elle inspirait que je mettais ma confiance. Et j'avais la sensation qu'elle était plus forte que moi, qu'elle protégeait notre bonheur, et que d'elle seule je pouvais attendre un secours, si ce bonheur était jamais menacé.  
 &nbsp;&nbsp;La Pentecôte fut tardive cette année-là, reculée par les caprices de l'astronomie jusqu'au milieu de juin. Les parents de Jeanne vinrent passer les vacances avec nous.  
 &nbsp;&nbsp;Comme elle fut gâtée, notre petite Yvette. Que de jouets! des Marthe et des Madeleine ! Toute une famille de poupées !  
@@ -386,19 +378,17 @@ Yvette allait de surprise en surprise. Pour son âme neuve, tout était sujet d'
 &nbsp;&nbsp;L'été vint. Ses chaleurs éprouvèrent Jeanne extrêmement. Il m'arrivait, en la voyant, d'éprouver une sensation étrange. « Oh ! je suis si lasse, si lasse, disait-elle, ne fais pas attention à moi... »  
 &nbsp;&nbsp;Une fois, nous étions sortis après dîner. Les premiers souffles nocturnes nous éventaient au passage. C'était le déclin d'un de ces jours de juillet si torrides qu'on ne vit que le soir. De quelque fête lointaine, assoupies par la distance, nous arrivaient des rumeurs vagues : chants de violons et rires de femmes. La dernière lueur du jour s'éteignait dans la rivière.  
 &nbsp;&nbsp;Jeanne, sans lever la tête, parla :  
-
-- Mon ami, dit-elle, laisse-moi te demander quelque chose... N'est-ce pas? tu saurais élever Yvette, si jamais j'étais éloignée de toi ?  
+&nbsp;&nbsp;- Mon ami, dit-elle, laisse-moi te demander quelque chose... N'est-ce pas? tu saurais élever Yvette, si jamais j'étais éloignée de toi ?  
 &nbsp;&nbsp;Une crainte d'aggraver les choses, de leur donner un tour tragique m'empêcha de me récrier.   
-- Voyons, lui dis-je, quelle question bizarre! Tu souriras plus tard de tout cela.  
-
-- Plus tard, murmura-t-elle, plus tard... Sait-on ce qui peut arriver ?  
+&nbsp;&nbsp;- Voyons, lui dis-je, quelle question bizarre! Tu souriras plus tard de tout cela.  
+&nbsp;&nbsp;- Plus tard, murmura-t-elle, plus tard... Sait-on ce qui peut arriver ?  
 &nbsp;&nbsp;Et nous revînmes, plus silencieux encore, comme deux personnes qui n'auraient plus rien à se dire parce qu'elles sauraient bien que leurs routes vont se séparer.  
-&nbsp;&nbsp;Le lendemain, comme nous passions au salon après déjeuner, Jeanne me dit :   
-- Décidément, je ne vais pas bien. Je voudrais passer quelques jours chez mon oncle.   
-- Et quand veux-tu partir? lui demandai-je.   
+&nbsp;&nbsp;Le lendemain, comme nous passions au salon après déjeuner, Jeanne me dit :  
+- Décidément, je ne vais pas bien. Je voudrais passer quelques jours chez mon oncle.  
+- Et quand veux-tu partir? lui demandai-je.  
 - Ma malle sera bientôt faite. Je pourrais partir cet après-midi.  
 &nbsp;&nbsp;Je me gardai de rien objecter et Jeanne monta dans sa chambre faire ses préparatifs. Resté dans le salon, je l'entendais aller et venir. L'innocente Yvette gambadait dans le jardin.  
-&nbsp;&nbsp;La voix de Jeanne m'arriva du premier.   
+&nbsp;&nbsp;La voix de Jeanne m'arriva du premier.  
 - Veux-tu me choisir quelques livres?... des volumes de vers si tu veux…  
 &nbsp;&nbsp;J'étais heureux qu'elle exprimât ce désir. Ainsi, nos belles heures de plénitude, elle ne les avait pas tout à fait oubliées. Ces pages que nous avions lues ensemble, elle éprouvait le besoin de les relire. Même serionsnous loin l'un de l'autre, nos chers poètes, qui avaient éveillé dans nos cœurs des résonances profondes, nous maintiendraient unis, et plus les vers seraient beaux, plus ils nous rapprocheraient.  
 &nbsp;&nbsp;J'apportai Vigny, la _Légende des siècles_, les _Poèmes antiques_. La malle, à moitié faite, bâillait dans la chambre parmi les lingeries en désordre. Jeanne s'était assise, un moment, sur sa chaise longue pour se reposer.  
@@ -835,7 +825,6 @@ Yvette fit donc ses invitations. Cela se passa dans le jardin de l'école où je
 &nbsp;&nbsp;Au dessert, la conversation devint moins craintive. Une omelette au rhum flamba. Quatorze petits yeux se dilatèrent. Le papa d'Yvette n'était plus intimidant du tout. Et Yvette, m'épiant parfois sans mot dire, voulait s'assurer que j'étais content, que ses petites amies avaient mon approbation.  
 &nbsp;&nbsp;Le repas fini, fatiguées de rester assises, les petites fées devenues petites folles se mirent à jouer dans le vestibule. L'une proposait un jeu. Toutes acceptaient d'enthousiasme. Mais Lili ne pouvait encore jouer avec les autres. Les grandes couraient si vite qu'elle se mit à pleurer. Yvette la prit par la main, lui prêta ses poupées, s'amusa longtemps avec elle, la protégea de son autorité. Et Lili, consolée, riait, bien qu'une larme non essuyée coulât encore sur sa joue.  
 &nbsp;&nbsp;A quatre heures, le goûter fut servi. Les appétits étaient aiguisés de nouveau. La partie s'interrompit et les petites filles déambulaient, la tartine aux mains. Mais, la dernière bouchée à peine avalée, Suzette, toujours vive, s'écria :  
-
 - Aux quatre coins !  
 &nbsp;&nbsp;Et les angles du vestibule furent occupés immédiatement.  
 &nbsp;&nbsp;L'arrivée des bonnes arrêta tout. Les manteaux furent décrochés des patères. Sous les capes s'engouffrèrent six têtes ébouriffées. Un petit chaperon rouge s'échappa le dernier après force embrassements.  
@@ -905,11 +894,9 @@ Yvette fit donc ses invitations. Cela se passa dans le jardin de l'école où je
 - Papa, nous n'avons pas fait la prière hier soir.  
 &nbsp;&nbsp;C'était vrai. J'avais oublié. Yvette dormait, la veille, quand j'avais regagné notre chambre.  
 &nbsp;&nbsp;Je lui pris les deux mains et répondis :  
-
 - Dis _Notre Père_, ma chérie. Je t'écoute…  
 &nbsp;&nbsp;Mais, la bouche un peu sèche, elle murmura  
-
-– Toi plutôt, papa... Tu veux ?...
+- Toi plutôt, papa... Tu veux ?...  
 &nbsp;&nbsp;Alors je me penchai vers elle. A voix basse, je répétai l'éternelle prière, et ses yeux ne quittaient pas les miens, et elle redisait en elle-même les paroles. Nos lèvres remuaient en même temps. Et quelques mots furent ajoutés pour supplier Jésus de veiller sur Yvette, le Jésus que j'avais oublié souvent, mais qu'invoquent les parents et les marins en détresse. Et nous nous sentîmes plus heureux, comme s'il avait étendu ses bras sur nous, le doux berger des petits enfants.  
 
 &nbsp;&nbsp;La garde devait arriver dans la soirée. Je la reconnaîtrais, à la descente du train, à son costume bleu d'infirmière. Vers dix heures je partis pour la gare.  
@@ -942,17 +929,13 @@ Yvette fit donc ses invitations. Cela se passa dans le jardin de l'école où je
 &nbsp;&nbsp;Plus de bruit dans la maison. Rien que cette vague rumeur pareille à celle des coquillages que les enfants appuient à leurs oreilles. Mais, dans la rainure de la porte, la veilleuse de la chambre voisine traçait une raie lumineuse.  
 &nbsp;&nbsp;Je finis par m'endormir. Pour combien de temps ? Je l'ignore. Soudain, je me réveillai en sursaut, avec la sensation d'avoir été appelé. J'ouvris les yeux. La raie de lumière brillait encore.  
 &nbsp;&nbsp;Et j'entendis la chère voix :  
-
 - Papa... Papa…  
 &nbsp;&nbsp;Une autre voix disait doucement :  
-
 - Papa dort... Dodo, ma chérie... Dodo…  
 &nbsp;&nbsp;Mais l'enfant insistait encore :  
-
 - Papa... Papa... Tu es là ?... Mon petit papa.  
 &nbsp;&nbsp;La voix se faisait câline pour mieux me persuader. J'attendis un moment, l'oreille collée à la porte. Yvette répétait toujours : « Papa... Papa... » La crainte de manquer de tact me retenait, mais bientôt je n'eus plus la force de résister davantage. Peut-être qu'à ce moment, seule avec une étrangère, Yvette se croyait abandonnée par moi. Sachant que la garde ne se dévêtait pas pour la nuit, sûr de ne réveiller personne, je passai vite un vêtement et frappai deux petits coups.  
 &nbsp;&nbsp;Sur ce ton plus grave qu'impose le voisinage de minuit, une voix de femme murmura :  
-
 - Entrez…  
 &nbsp;&nbsp;L'enfant avait les yeux grands ouverts. Assise auprès d'elle, la garde lui donnait de la tisane.   
 - Yvette est un peu agitée, dit-elle en se relevant.  
@@ -1055,9 +1038,7 @@ Je voulus prévenir Jeanne, mais que faisait-elle, et quel pouvait être son ét
 - Voyons, ma brave fille, vous ne pleurez pas sans raison. Pourquoi ces larmes tout à coup?   
 - Je pleure parce qu'Yvette est malade.   
 - Elle est malade, oui, depuis bien des jours malheureusement. Mais nous la sauverons. Je suis sûr que nous la sauverons. Avez-vous su quelque chose ? Avez-vous parlé à quelqu'un ?  
-
 - Parlé ? Je n'ai parlé qu'au docteur.  
-
 - Et que vous a-t-il dit de particulier ?  
 &nbsp;&nbsp;Elle me regarda encore, eut une hésitation. Les sanglots s'étaient arrêtés. Redevenue maîtresse d'elle-même, elle me dit :   
 - Rien de particulier, non. Rien. Monsieur peut me croire.  
@@ -1384,7 +1365,7 @@ De ta jeunesse ?_
 
 &nbsp;&nbsp;_Aux armées, Janvier-juillet 1916._  
 
-&nbsp;&nbsp;FIN  
+## FIN  
 
 
 
