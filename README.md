@@ -28,5 +28,7 @@ Le format epub sera construit automatiquement une fois la PR mergée.
 
 ## Le livre original
 
-[Titre intérieur](livre-titre-interieur.jpg)
+<img src="images/livre-titre-interieur.jpg" height="500">
+
+<img src="images/livre-fin.jpg" height="500">
 
