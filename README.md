@@ -13,7 +13,7 @@ Les formats disponibles sont:
 
 Le livre n'étant pas disponible au format numérique, et cette oeuvre ne méritant pas de tomber dans l'oubli, je me suis lancé ce projet.
 
-Le fichier markdown a été obtenu par OCR, en prenant en photo chaque page du livre puis via des Google Scripts. Des erreurs ont donc pu se glisser, n'hésitez pas à contribuer si vous en repérez une.
+Le fichier markdown a été obtenu en prenant en photo chaque page du livre puis par OCR via des Google Scripts, puis en Markdown. Des erreurs ont donc pu se glisser, n'hésitez pas à contribuer si vous en repérez une.
 
 Le fichier epub est généré via le workflow github action de ce repository.
 
