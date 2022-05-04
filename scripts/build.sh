@@ -4,6 +4,7 @@
 ebook-convert ./ma-petite-yvette.md ./ma-petite-yvette.epub --max-toc-links 0 --duplicate-links-in-toc --markdown-extensions meta,toc,nl2br
 
 # Paragraph structure to assume.
+# eg. --paragraph-type off
 # The value of "off" is useful for formatted documents such as Markdown or Textile.
 #Choices are:
 #* auto: Try to auto detect paragraph type
